@@ -1,7 +1,7 @@
 # pyspeech
 
 
-This ia python package for some basic operation on signal and sound .In this package useful functions develop that they can use in many task in signal processing. a
+This is the python package for some basic operations on signal and sound .In this package useful functions have been developed that they can use in many tasks in signal processing.
 - python package
 - signal processing 
 
